@@ -18,3 +18,6 @@ This repository contains the Fitness Tracker application integrated with enterpr
 * Persistent storage
 * Helm-based deployments
 * GitHub governance workflow
+
+## Kubernetes Deployment
+This project will be deployed on AWS EKS using Helm charts and Kubernetes manifests.
